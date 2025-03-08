@@ -10,8 +10,8 @@ Each algorithm follows the specifications given in Chapter 5 of the course mater
 Test_assignment_3 runs the methods for several functions, while assignment_3 runs the functions given in the assignment.
 
 ## Repository Structure
-cot-4500-Pro3a/
-\│-- src/ \
+cot-4500-Pro3a \
+│-- src/ \
 │ │-- main/ \
 │ │ │-- init.py \
 │ │ │-- assignment_3.py \
