@@ -6,6 +6,7 @@ This project implements 2 numerical methods for solving ODE's
 2. **Runge-Kutta Method**
 
 Each algorithm follows the specifications given in Chapter 5 of the course material.
+Test_assignment_3 runs the methods for several functions, while assignment_3 runs the functions given in the assignment.
 
 ## Repository Structure
 cot-4500-Pro3a/
